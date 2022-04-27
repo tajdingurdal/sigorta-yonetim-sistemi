@@ -103,8 +103,4 @@ Ayrıca, "Account" sınıfının "hashCode" ve "equals" fonksiyonlarını doldur
 
 
 
-Klavyeden email ve şifre bilgisini alan bir sınıf tasarlayınız. 
-Klavyeden alınan email ve şifre bilgisi ile AccountManager sınıfındaki "login" fonksiyonunu çağırın. 
-Eğer geçerli bir kullanıcı ile giriş yapmışsanız bu fonksiyon size Account tipinde bir nesne dönecektir.
-
 ````
