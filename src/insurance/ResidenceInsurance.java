@@ -15,4 +15,10 @@ public class ResidenceInsurance extends Insurance {
 
 	}
 
+	@Override
+	public void addInsurancePolicy() {
+		// boþ
+		
+	}
+
 }

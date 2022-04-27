@@ -19,7 +19,7 @@ public class Enterprise extends User {
 
 	@Override
 	public void addInsurancePolicy() {
-		// TODO Auto-generated method stub
+		System.out.println("Insurance Policy for Enterprise");
 
 	}
 

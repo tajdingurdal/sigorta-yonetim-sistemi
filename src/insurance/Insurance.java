@@ -2,7 +2,9 @@ package insurance;
 
 import java.util.Date;
 
-public abstract class Insurance {
+import account.Account;
+
+public abstract class Insurance extends Account {
 
 	private String insuranceName;
 	private double costInsurance;

@@ -15,4 +15,10 @@ public class TravelInsurance extends Insurance {
 
 	}
 
+	@Override
+	public void addInsurancePolicy() {
+		// boþ
+		
+	}
+
 }

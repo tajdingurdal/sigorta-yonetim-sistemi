@@ -15,4 +15,10 @@ public class CarInsurance extends Insurance {
 
 	}
 
+	@Override
+	public void addInsurancePolicy() {
+		// TODO Auto-generated method stub
+
+	}
+
 }
