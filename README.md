@@ -1,4 +1,4 @@
-# Java 102 Ödev - Sigorta Yönetim Sistemi
+# Sigorta Yönetim Sistemi
 
 
 ````
